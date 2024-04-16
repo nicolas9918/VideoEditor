@@ -1,0 +1,24 @@
+.root {
+}
+.h2 {
+  text-align: justify;
+  position: static;
+  display: flex;
+  overflow: visible;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+.image {
+  position: sticky;
+  text-align: justify;
+  border-radius: 20;
+  border: 2px solid #9a9afa;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: space-evenly;
+  justify-content: space-evenly;
+  justify-items: center;
+  flex-direction: column;
+}
